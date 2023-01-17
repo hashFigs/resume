@@ -14,7 +14,7 @@ Get started quickly using [Overleaf](https://www.overleaf.com/latex/templates/so
 
 ```sh
 sudo apt-get install  texlive-full
-pdflatex sourabh_bajaj_resume.tex
+pdflatex jordi_figueras_resume.tex
 ```
 
 ### Preview
@@ -23,4 +23,4 @@ pdflatex sourabh_bajaj_resume.tex
 
 ### License
 
-Format is MIT but all the data is owned by Sourabh Bajaj.
+Format is MIT but all the data is owned by Jordi Figueras.
